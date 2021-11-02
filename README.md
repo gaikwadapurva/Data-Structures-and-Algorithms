@@ -1,11 +1,11 @@
 # Data Structures and Algorithms
 
-## Learning Objective [Reference](https://eng-cs.syr.edu/wp-content/uploads/2016/08/cis351_Course-Outcomes.pdf)
+## Learning Objective [[Reference](https://eng-cs.syr.edu/wp-content/uploads/2016/08/cis351_Course-Outcomes.pdf)]
 
 To introduce the fundamental concept of data structures and to emphasize the importance of data structures in developing and implementing efficient algorithms. In addition, another objective of the course
 is to develop effective software engineering practice, emphasizing such principles as decomposition, procedural abstraction, and software reuse.
 
-## Learning Outcomes [Reference](https://www.eskisehir.edu.tr/en/academics/faculties/course/146317/data-structures-and-algorithms/learning-outcomes)
+## Learning Outcomes [[Reference](https://www.eskisehir.edu.tr/en/academics/faculties/course/146317/data-structures-and-algorithms/learning-outcomes)]
 
 - Design and analyse simple algorithms
   - Define the meaning of iterative and recursive algorithms.
